@@ -1,0 +1,259 @@
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\bin\Debug\Nimbus.exe.config
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\bin\Debug\Nimbus.exe
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\bin\Debug\Nimbus.pdb
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.csproj.AssemblyReference.cache
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\MainWindow.baml
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\MainWindow.g.cs
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\App.g.cs
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus_Content.g.cs
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus_MarkupCompile.cache
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.g.resources
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.Properties.Resources.resources
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.csproj.GenerateResource.cache
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.csproj.CoreCompileInputs.cache
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.csproj.CopyComplete
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.exe
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.pdb
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\bin\Debug\Nimbus.exe.manifest
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\bin\Debug\Nimbus.application
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.exe.manifest
+C:\Users\AndrePlays\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.application
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\bin\Debug\Nimbus.exe.config
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\bin\Debug\Nimbus.exe.manifest
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\bin\Debug\Nimbus.application
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\bin\Debug\Nimbus.exe
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\bin\Debug\Nimbus.pdb
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.csproj.AssemblyReference.cache
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\MainWindow.baml
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\MainWindow.g.cs
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\App.g.cs
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus_Content.g.cs
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus_MarkupCompile.cache
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.g.resources
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.Properties.Resources.resources
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.csproj.GenerateResource.cache
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.csproj.CoreCompileInputs.cache
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.exe.manifest
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.application
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.csproj.CopyComplete
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.exe
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.pdb
+C:\Users\MRS-PC\source\repos\Nimbus\Nimbus\obj\Debug\Nimbus.Form1.resources
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\bin\Debug\Nimbus.exe.config
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\bin\Debug\Nimbus.exe.manifest
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\bin\Debug\Nimbus.application
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\bin\Debug\Nimbus.exe
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\bin\Debug\Nimbus.pdb
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\Nimbus.csproj.AssemblyReference.cache
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\MainWindow.baml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\MainWindow.g.cs
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\App.g.cs
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\Nimbus_Content.g.cs
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\Nimbus_MarkupCompile.cache
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\Nimbus.g.resources
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\Nimbus.Form1.resources
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\Nimbus.Properties.Resources.resources
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\Nimbus.csproj.GenerateResource.cache
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\Nimbus.csproj.CoreCompileInputs.cache
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\Nimbus.exe.manifest
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\Nimbus.application
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\Nimbus.csproj.CopyComplete
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\Nimbus.exe
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.6\Nimbus\obj\Debug\Nimbus.pdb
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\Nimbus.exe.config
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\Nimbus.exe.manifest
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\Nimbus.application
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\Nimbus.exe
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\Nimbus.pdb
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\MainWindow.baml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\MainWindow.g.cs
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\App.g.cs
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\Nimbus_Content.g.cs
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\Nimbus_MarkupCompile.cache
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\Nimbus.g.resources
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\Nimbus.Form1.resources
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\Nimbus.Properties.Resources.resources
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\Nimbus.csproj.GenerateResource.cache
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\Nimbus.csproj.CoreCompileInputs.cache
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\Nimbus.exe.manifest
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\Nimbus.application
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\Nimbus.csproj.CopyComplete
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\Nimbus.exe
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\Nimbus.pdb
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\obj\Debug\Nimbus.csproj.AssemblyReference.cache
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Buffers.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Drawing.Common.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.IO.Pipelines.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Memory.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Text.Json.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Buffers.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Drawing.Common.pdb
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Drawing.Common.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.IO.Pipelines.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Memory.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Text.Json.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.7\Nimbus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\Nimbus.exe.config
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\Nimbus.exe.manifest
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\Nimbus.application
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\Nimbus.exe
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\Nimbus.pdb
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Buffers.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Drawing.Common.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.IO.Pipelines.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Memory.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Text.Json.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Buffers.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Drawing.Common.pdb
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Drawing.Common.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.IO.Pipelines.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Memory.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Text.Json.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\Nimbus.csproj.AssemblyReference.cache
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\MainWindow.baml
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\MainWindow.g.cs
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\App.g.cs
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\Nimbus_Content.g.cs
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\Nimbus_MarkupCompile.cache
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\Nimbus.g.resources
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\Nimbus.Form1.resources
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\Nimbus.Properties.Resources.resources
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\Nimbus.csproj.GenerateResource.cache
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\Nimbus.csproj.CoreCompileInputs.cache
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\Nimbus.exe.manifest
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\Nimbus.application
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\Nimbus.csproj.CopyComplete
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\Nimbus.exe
+C:\Users\AndrePlays\source\repos\Nimbus - Código fonte 1.8\Nimbus\obj\Debug\Nimbus.pdb
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\MainWindow.baml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\MainWindow.g.cs
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\App.g.cs
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\Nimbus_Content.g.cs
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\Nimbus_MarkupCompile.cache
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\Nimbus.g.resources
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\Nimbus.Properties.Resources.resources
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\Nimbus.csproj.GenerateResource.cache
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\Nimbus.csproj.CoreCompileInputs.cache
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\Nimbus.exe
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\Nimbus.pdb
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Nimbus.exe.config
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Nimbus.exe.manifest
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Nimbus.application
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Nimbus.exe
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Nimbus.pdb
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Buffers.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Drawing.Common.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.IO.Pipelines.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Memory.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Text.Json.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Buffers.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Drawing.Common.pdb
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Drawing.Common.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.IO.Pipelines.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Memory.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Text.Json.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\Nimbus.exe.manifest
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\Nimbus.application
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\Nimbus.csproj.CopyComplete
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\EasyTabs.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Svg.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Win32Interop.User32.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\EasyTabs.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Svg.pdb
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Svg.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Win32Interop.User32.pdb
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\dedem\source\repos\Nimbus - Código fonte 1.8 - Copia\Nimbus\obj\Debug\Nimbus.csproj.AssemblyReference.cache

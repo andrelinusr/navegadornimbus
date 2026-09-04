@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Nimbus - Tela Inicial</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f1f1f1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      height: 100vh;
+    }
+
+    h1 {
+      font-size: 48px;
+      margin-top: 100px;
+      margin-bottom: 40px;
+      color: #202124;
+    }
+
+    .search-container {
+      display: flex;
+      align-items: center;
+      width: 80%;
+      max-width: 800px;
+      background-color: #fff;
+      padding: 10px 20px;
+      border-radius: 50px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    .search-container input[type="text"] {
+      flex: 1;
+      border: none;
+      outline: none;
+      font-size: 18px;
+      padding: 12px;
+      border-radius: 50px;
+    }
+
+    .search-container button {
+      border: none;
+      outline: none;
+      background-color: #4285F4;
+      color: #fff;
+      font-size: 18px;
+      padding: 12px 20px;
+      border-radius: 50px;
+      cursor: pointer;
+      margin-left: 10px;
+      transition: background-color 0.3s;
+    }
+
+    .search-container button:hover {
+      background-color: #357ae8;
+    }
+  </style>
+</head>
+<body>
+  <h1>Nimbus</h1>
+  <div class="search-container">
+    <input type="text" id="query" placeholder="Digite sua pesquisa..." required />
+    <button id="searchBtn">Pesquisar</button>
+  </div>
+
+  <script>
+    const searchBtn = document.getElementById('searchBtn');
+    const queryInput = document.getElementById('query');
+
+    searchBtn.addEventListener('click', function () {
+      let query = queryInput.value.trim();
+      if (query) {
+        const url = "https://www.google.com/search?q=" + encodeURIComponent(query);
+        window.location.href = url;
+      }
+    });
+
+    queryInput.addEventListener('keypress', function (e) {
+      if (e.key === "Enter") {
+        searchBtn.click();
+      }
+    });
+  </script>
+</body>
+</html>

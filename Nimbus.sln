@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35731.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nimbus", "Nimbus\Nimbus.csproj", "{5FD758CE-55B7-49FA-8178-B39760116215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD758CE-55B7-49FA-8178-B39760116215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD758CE-55B7-49FA-8178-B39760116215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD758CE-55B7-49FA-8178-B39760116215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD758CE-55B7-49FA-8178-B39760116215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83FEE550-2BEB-414D-A161-38E0C2D5851D}
+	EndGlobalSection
+EndGlobal
